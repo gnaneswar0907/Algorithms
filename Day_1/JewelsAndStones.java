@@ -1,3 +1,5 @@
+package Day_1;
+
 public class JewelsAndStones {
     public int numJewelsInStones(String J, String S) {
         int co = 0;

@@ -1,3 +1,5 @@
+package Day_1;
+
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         int min = 1, max = n;
