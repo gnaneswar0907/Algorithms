@@ -11,3 +11,9 @@ LeetCode Algorithms Practice
 ..\* [Ransom Note](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_1/JewelsAndStones.java)
 
 ---
+
+### Day 2
+
+..\_ [Number Complement](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_2/NumberComplement.java)
+
+---
