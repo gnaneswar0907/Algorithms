@@ -6,14 +6,18 @@ LeetCode Algorithms Practice
 
 ### Day 1
 
-.._ [First Bad Version](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_1/FirstBadVersion.java)
-.._ [Jewels And Stones](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_1/JewelsAndStones.java)
-..\* [Ransom Note](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_1/JewelsAndStones.java)
+- [First Bad Version](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_1/FirstBadVersion.java)
+- [Jewels And Stones](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_1/JewelsAndStones.java)
+- [Ransom Note](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_1/JewelsAndStones.java)
 
 ---
 
 ### Day 2
 
-..\_ [Number Complement](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_2/NumberComplement.java)
+- [Number Complement](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_2/NumberComplement.java)
 
 ---
+
+### Day 3
+
+- [FIRST UNIQUE CHARACTER](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayMayLeetCode/Day_3/FirstUniqueCharacter.java)
