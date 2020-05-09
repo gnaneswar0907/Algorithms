@@ -21,3 +21,9 @@ LeetCode Algorithms Practice
 ### Day 3
 
 - [FIRST UNIQUE CHARACTER](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayMayLeetCode/Day_3/FirstUniqueCharacter.java)
+
+---
+
+### Day 5
+
+- [Check If It Is a Straight Line](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayMayLeetCode/Day_5/CheckStraightLine.java)
