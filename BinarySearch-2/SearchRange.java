@@ -1,5 +1,3 @@
-package BinarySearch_2;
-
 public class SearchRange {
     public int[] searchRange(int[] nums, int target) {
         if (nums.length == 1)

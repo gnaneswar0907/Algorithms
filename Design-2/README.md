@@ -1,6 +1,6 @@
 # DESIGN - 2
 
-### [Implement Queue using Stack](https://github.com/gnaneswar0907/Algorithms/blob/master/Design_2/QueueUsingStack.java)
+### [Implement Queue using Stack](https://github.com/gnaneswar0907/Algorithms/blob/master/Design-2/QueueUsingStack.java)
 
 Implement the following operations of a queue using stacks.
 
@@ -21,7 +21,7 @@ queue.empty(); // returns false
 
 ---
 
-### [Design HashSet](https://github.com/gnaneswar0907/Algorithms/blob/master/Design_2/MyHashSet.java)
+### [Design HashSet](https://github.com/gnaneswar0907/Algorithms/blob/master/Design-2/MyHashSet.java)
 
 Design a HashSet without using any built-in hash table libraries. To be specific, your design should include these functions:
 

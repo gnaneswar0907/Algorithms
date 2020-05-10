@@ -1,5 +1,3 @@
-package BinarySearch_2;
-
 public class MinInSortedArray {
 
     public int findMin(int[] nums) {

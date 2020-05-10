@@ -1,6 +1,6 @@
 ## Binary Seach 1
 
-#### [Search in Rotated Sorted Array](https://github.com/gnaneswar0907/Algorithms/blob/master/BinarySearch_1/RotatedSortedSearch.java)
+#### [Search in Rotated Sorted Array](https://github.com/gnaneswar0907/Algorithms/blob/master/BinarySearch-1/RotatedSortedSearch.java)
 
 Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
 (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).

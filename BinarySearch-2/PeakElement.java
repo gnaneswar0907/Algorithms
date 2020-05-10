@@ -1,5 +1,3 @@
-package BinarySearch_2;
-
 public class PeakElement {
     public int findPeakElement(int[] nums) {
         int l = 0;

@@ -1,5 +1,3 @@
-package BinarySearch_1;
-
 public class RotatedSortedSearch {
     public int search(int[] nums, int target) {
         int l = 0;

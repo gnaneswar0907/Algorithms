@@ -1,5 +1,3 @@
-package Design_2;
-
 import java.util.*;
 
 public class QueueUsingStack {

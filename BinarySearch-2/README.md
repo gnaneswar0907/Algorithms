@@ -1,4 +1,4 @@
-#### [Find First and Last Position of Element in Sorted Array](https://github.com/gnaneswar0907/Algorithms/blob/master/BinarySearch_2/SearchRange.java)
+#### [Find First and Last Position of Element in Sorted Array](https://github.com/gnaneswar0907/Algorithms/blob/master/BinarySearch-2/SearchRange.java)
 
 Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value.
 Your algorithm's runtime complexity must be in the order of O(log n).
@@ -14,7 +14,7 @@ Output: [-1,-1]
 
 ---
 
-#### [Find Minimum in Rotated Sorted Array](https://github.com/gnaneswar0907/Algorithms/blob/master/BinarySearch_2/MinInSortedArray.java)
+#### [Find Minimum in Rotated Sorted Array](https://github.com/gnaneswar0907/Algorithms/blob/master/BinarySearch-2/MinInSortedArray.java)
 
 Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
 (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
@@ -31,7 +31,7 @@ Output: 1
 
 ---
 
-#### [Find Peak Element](https://github.com/gnaneswar0907/Algorithms/blob/master/BinarySearch_2/PeakElement.java)
+#### [Find Peak Element](https://github.com/gnaneswar0907/Algorithms/blob/master/BinarySearch-2/PeakElement.java)
 
 A peak element is an element that is greater than its neighbors. Given an input array nums, where nums[i] ≠ nums[i+1], find a peak element and return its index. The array may contain multiple peaks, in that case return the index to any one of the peaks is fine.
 
