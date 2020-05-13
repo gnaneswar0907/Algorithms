@@ -33,3 +33,17 @@ LeetCode Algorithms Practice
 ### [Day 6](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_6)
 
 - [Valid Perfect Square](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayMayLeetCode/Day_6/PerfectSquare.java)
+
+---
+
+### [Day 7](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_7)
+
+- [Find the Town Judge](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayMayLeetCode/Day_7/TownJudge.java)
+
+---
+
+### [Day 9](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_9)
+
+- [Single Element in a Sorted Array](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayMayLeetCode/Day_9/SingleNonDuplicate.java)
+
+---
