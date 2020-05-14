@@ -47,3 +47,7 @@ LeetCode Algorithms Practice
 - [Single Element in a Sorted Array](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayMayLeetCode/Day_9/SingleNonDuplicate.java)
 
 ---
+
+### [Day 10](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_10)
+
+- [Remove K Digits](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_10/RemoveKDigits.java)
