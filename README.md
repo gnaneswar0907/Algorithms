@@ -26,3 +26,9 @@ Practicing Algorithm problems from online programming platform [Leetcode](https:
 - [Group Anagrams](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-1/GroupAnagrams.java)
 - [Isomorphic Strings](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-1/IsomorphicStrings.java)
 - [Word Pattern](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-1/WordPattern.java)
+
+### [Hashing 2](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-2)
+
+- [Longest Palindrome](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-2/LongestPalindrome.java)
+- [SubArray Sum Equals K](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-2/SubArraySum.java)
+- [Contiguous Array](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-2/ContiguousArray.java)
