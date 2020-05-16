@@ -57,3 +57,9 @@ LeetCode Algorithms Practice
 ### [Day 11](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_11)
 
 - [Implementation of TRIE](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_11/Trie.java)
+
+---
+
+### [Day 12](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_12)
+
+- [Maximum Sum Circular Subarray](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_12/SubArrayMax.java)
