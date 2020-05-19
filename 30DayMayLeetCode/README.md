@@ -81,3 +81,9 @@ LeetCode Algorithms Practice
 ### [Day 15](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_15)
 
 - [Permutation in String](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_15/FindPermutation.java)
+
+---
+
+### Day 16](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_16)
+
+- [Online Stock Span](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_16/StockSpanner.java)
