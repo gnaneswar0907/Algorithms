@@ -93,3 +93,9 @@ LeetCode Algorithms Practice
 ### Day 17](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_17)
 
 - [Kth Smallest Element in a BST](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_17/KthSmallest.java)
+
+---
+
+### [Day 18](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_18)
+
+- [Sort Characters By Frequency](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_18/FrequencySort.java)
