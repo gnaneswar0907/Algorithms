@@ -99,3 +99,9 @@ LeetCode Algorithms Practice
 ### [Day 18](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_18)
 
 - [Sort Characters By Frequency](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_18/FrequencySort.java)
+
+---
+
+### [Day 20](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_20)
+
+- [Construct Binary Search Tree from Preorder Traversa](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_20/BSTFromPreOrder.java)
