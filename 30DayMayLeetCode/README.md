@@ -105,3 +105,9 @@ LeetCode Algorithms Practice
 ### [Day 20](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_20)
 
 - [Construct Binary Search Tree from Preorder Traversa](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_20/BSTFromPreOrder.java)
+
+---
+
+### [Day 24](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_24)
+
+- [Counting Bits](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_24/CountingBits.java)
