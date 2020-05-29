@@ -24,7 +24,7 @@ LeetCode Algorithms Practice
 
 ---
 
-### [Day 5}(https://github.com/gnaneswar0907/Algorithms/blob/master/Day_5)
+### [Day 5](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_5)
 
 - [Check If It Is a Straight Line](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayMayLeetCode/Day_5/CheckStraightLine.java)
 
@@ -84,13 +84,13 @@ LeetCode Algorithms Practice
 
 ---
 
-### Day 16](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_16)
+### [Day 16](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_16)
 
 - [Online Stock Span](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_16/StockSpanner.java)
 
 ---
 
-### Day 17](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_17)
+### [Day 17](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_17)
 
 - [Kth Smallest Element in a BST](https://github.com/gnaneswar0907/Algorithms/blob/master/Day_17/KthSmallest.java)
 
