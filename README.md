@@ -37,3 +37,4 @@ Practicing Algorithm problems from online programming platform [Leetcode](https:
 
 - [Binary Tree Preorder Traversal](https://github.com/gnaneswar0907/Algorithms/blob/master/BinaryTree/PreOrder.java)
 - [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/gnaneswar0907/Algorithms/blob/master/BinaryTree/BuildTreeFromInAndPost.java)
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/gnaneswar0907/Algorithms/blob/master/BinaryTree/BuildTreeFromInAndPre.java)

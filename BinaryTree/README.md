@@ -38,3 +38,27 @@ postorder = [9,15,7,20,3]
    15   7
 
 ```
+
+---
+
+### [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/gnaneswar0907/Algorithms/blob/master/BinaryTree/BuildTreeFromInAndPre.java)
+
+Given preorder and inorder traversal of a tree, construct the binary tree.
+
+Note:
+You may assume that duplicates do not exist in the tree.
+
+For example, given
+
+```java
+
+inorder = [9,3,15,20,7]
+preorder = [3,9,20,15,7]
+
+    3
+   / \
+  9  20
+    /  \
+   15   7
+
+```
