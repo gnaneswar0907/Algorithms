@@ -1,5 +1,4 @@
 import java.util.*;
-import BinaryTree.TreeNode;
 
 public class PreOrder {
     public List<Integer> preorderTraversal(TreeNode root) {
