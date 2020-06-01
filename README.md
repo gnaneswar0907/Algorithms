@@ -32,3 +32,8 @@ Practicing Algorithm problems from online programming platform [Leetcode](https:
 - [Longest Palindrome](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-2/LongestPalindrome.java)
 - [SubArray Sum Equals K](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-2/SubArraySum.java)
 - [Contiguous Array](https://github.com/gnaneswar0907/Algorithms/blob/master/Hashing-2/ContiguousArray.java)
+
+### [Binary Tree](https://github.com/gnaneswar0907/Algorithms/blob/master/BinaryTree)
+
+- [Binary Tree Preorder Traversal](https://github.com/gnaneswar0907/Algorithms/blob/master/BinaryTree/PreOrder.java)
+- [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/gnaneswar0907/Algorithms/blob/master/BinaryTree/BuildTreeFromInAndPost.java)
