@@ -2,9 +2,13 @@
 
 Practicing Algorithm problems from online programming platform [Leetcode](https://leetcode.com/)
 
-### [30 Days Leetcode Challenge - Month May](https://github.com/gnaneswar0907/Algorithms/tree/master/30DayMayLeetCode)
+### [30 Days May Leetcode Challenge](https://github.com/gnaneswar0907/Algorithms/tree/master/30DayMayLeetCode)
 
 - It consists of 31 daily problems over the month of May.
+
+### [30 Days June Leetcode Challenge](https://github.com/gnaneswar0907/Algorithms/tree/master/30DayJuneLeetCode)
+
+- It consists of 31 daily problems over the month of June.
 
 ### [Design 2](https://github.com/gnaneswar0907/Algorithms/tree/master/Design-2)
 
