@@ -7,3 +7,5 @@
 - [Two City Scheduling](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/TwoCitySchedCost.java)
 
 - [Reverse String](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/ReverseString.java)
+
+- [Random Pick with Weight](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/RandomWeight.java)
