@@ -9,3 +9,5 @@
 - [Reverse String](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/ReverseString.java)
 
 - [Random Pick with Weight](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/RandomWeight.java)
+
+- [Queue Reconstruction by Height](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/ReconstructQueue.java)
