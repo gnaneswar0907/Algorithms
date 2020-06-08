@@ -11,3 +11,5 @@
 - [Random Pick with Weight](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/RandomWeight.java)
 
 - [Queue Reconstruction by Height](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/ReconstructQueue.java)
+
+- [Coin Change 2](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/CoinChange2.java)
