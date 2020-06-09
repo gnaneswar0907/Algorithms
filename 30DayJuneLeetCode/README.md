@@ -13,3 +13,5 @@
 - [Queue Reconstruction by Height](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/ReconstructQueue.java)
 
 - [Coin Change 2](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/CoinChange2.java)
+
+- [Power of Two](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/PowerOf2.java)
