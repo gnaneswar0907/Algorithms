@@ -17,3 +17,5 @@
 - [Power of Two](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/PowerOf2.java)
 
 - [Is Subsequence](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/IsSubsequence.java)
+
+- [Search Insert Position](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/SearchInsertPosition.java)
