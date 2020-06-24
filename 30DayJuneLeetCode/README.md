@@ -25,3 +25,5 @@
 - [Search in a Binary Search Tree](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/SearchBST.java)
 
 - [Largest Divisible Subset](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/LargestDivisibleSubset.java)
+
+- [Count Complete Tree Nodes](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/NodeCount.java)
