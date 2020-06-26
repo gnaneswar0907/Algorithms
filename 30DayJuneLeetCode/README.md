@@ -29,3 +29,5 @@
 - [Count Complete Tree Nodes](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/NodeCount.java)
 
 - [Closest Binary Search Tree Value](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/ClosestNode.java)
+
+- [ Find the Duplicate Number ](https://github.com/gnaneswar0907/Algorithms/blob/master/30DayJuneLeetCode/DuplicateNumber.java)
